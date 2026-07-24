@@ -1,4 +1,7 @@
 # Multiple conditions with logical operators
+#arthmetic operator --> +-*/ //% **
+#comparttion operator --> == != < > <= =>
+#local operator --> and(gg) or (ll) not (!)
 username = "admin"
 password = "12345"
 is_active = True

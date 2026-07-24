@@ -12,10 +12,10 @@ print("   - Use 3.14159 for π")
 print()
 
 #input
-r = imput("Radius : ")
+r = input("radius : ")
 #process
-a = 3.14159 * Radius ** 2
-circumference = 2 * 3.14159 * Radius 
+a = 3.14159 * radius ** 2
+circumference = 2 * 3.14159 * radius 
 #output 
-print(Area of this circle =" area)
-print(circumferenc of circle = " + str(circumference))
+print (area of this circle =" area)
+print (circumferenc of circle = " + str(circumference))

@@ -17,6 +17,8 @@ my_tuple = tuple(my_list)
 
 # Tuple from string
 char_tuple = tuple("hello")  # ('h', 'e', 'l', 'l', 'o')
+#Tuple to list 
+rgb_list = list("rgb-color")
 
 print(f"Coordinates: {coordinates}")
 print(f"RGB: {rgb_color}")
